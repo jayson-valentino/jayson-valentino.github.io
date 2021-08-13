@@ -2095,3 +2095,10 @@ body.dark .tokyo_tm_settings .cursor li .svg,
 	.tokyo_tm_modalbox_about .counter ul li{width: 100%;padding-left: 0px;}
 }
 
+#g-recaptcha-response {
+	display: block !important;
+	position: absolute;
+	margin: -50px 0 0 0 !important;
+	z-index: -999999;
+	opacity: 0;
+}
