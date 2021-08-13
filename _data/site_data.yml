@@ -1,0 +1,89 @@
+home:
+  profile_name: Hi there! <br> I'm <br> <span> JAYSON VALENTINO </span>
+  profile_img: "/assets/img/slider/1.jpg"
+  bio: Welcome to my page! 
+  social:
+    facebook: "http://facebook.com"
+    twitter: "http://twitter.com"
+    instagram: "http://instagram.com"
+    dribbble: "http://dribble.com"
+    tiktok: "http://tiktok.com"
+    github: "https://github.com/jayson-valentino"
+    linkedin: "https://www.linkedin.com/in/jayson-valentino"
+
+about:
+  title: "Jayson Valentino  <span> Software Engineer </span>"
+  description: "Hello, I am a software engineer based in Dubai. I have more than 11 years of experience in Full Software Development Life Cycle.
+  I'm currently working as Lead Software Engineer in Pixel Plus Media. Visit my portfolio for more details about my projects."
+  img_src: "/assets/img/slider/6.jpg"
+  learn_more: Skills
+  lm_url: #
+  birthday: "22.07.1989"
+  age: 32
+  address: Dubai South, Dubai UAE
+  email: jaysonvalentino22@gmail.com
+  phone: +971 55 264 0342
+  study: Nueva Ecija Univercity of Science and Technology
+  # freelance: Available
+  technical:
+      - title: AWS Developer Associate
+        expertise: 95
+      - title: AWS DevOps
+        expertise: 80
+      - title: Azure Saas
+        expertise: 70
+      - title: Docker Container, Docker Swarm
+        expertise: 87
+      - title: Custom VPS (Cpanel)
+        expertise: 93
+      - title: IoT Devices 
+        expertise: 88
+      - title: Windows, Windows IoT 
+        expertise: 90
+      - title: Linux 
+        expertise: 82        
+
+  languages:
+      - title: TypeScript, JavaScript
+        expertise: 94
+      - title: C#, C#.Net
+        expertise: 85
+      - title: Python
+        expertise: 85
+      - title: NodeJs
+        expertise: 94
+      - title: NestJs
+        expertise: 93
+      - title: SQL Database
+        expertise: 96
+      - title: NoSql (MongoDB)
+        expertise: 92
+
+  frontend:
+      - title: ReactJs
+        expertise: 92
+      - title: NextJs
+        expertise: 86
+      - title: Angular 2+
+        expertise: 75
+      - title: UWP, WPF
+        expertise: 87
+
+  tools:
+    - title: Git, Github, AWS Dev Tools, Azure DevOps, GitLab
+      expertise: 85
+    - title: Visual Studuio, Visual Studio Code
+      expertise: 91
+    - title: Swagger, Post Man
+      expertise: 96
+
+
+portfolio:
+  title: Creative Portfolio
+
+news:
+  title: Creative Portfolio
+
+contact:
+  title: Get in Touch
+

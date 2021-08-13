@@ -1,0 +1,8 @@
+- text: Home
+  url: home
+- text: About
+  url: about
+- text: Portfolio
+  url: news
+- text: Contact
+  url: contact
