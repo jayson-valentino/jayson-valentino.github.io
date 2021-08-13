@@ -24,16 +24,17 @@
                     <div class="first">
                         <ul>
                             <li>
-                                <input id="name" name="Name" type="text" placeholder="Name">
+                                <input id="name" name="Name" type="text" placeholder="Name" required>
                             </li>
                             <li>
-                                <input id="email"name="Email" type="email" placeholder="Email">
+                                <input id="email"name="Email" type="email" placeholder="Email" required>
                             </li>
                         </ul>
                     </div>
                     <div class="last">
-                        <textarea id="message" name="Message" placeholder="Message"></textarea>
+                        <textarea id="message" name="Message" placeholder="Message" required></textarea>
                         <div class="g-recaptcha" data-sitekey="6LdB3vsbAAAAABCpy33wr3YtpfuPa2OFGmwaqr0P"></div>
+                        <div class="g-recaptcha-response"></div>
                     </div>
                     <div class="tokyo_tm_button" data-position="left">
                         <button id="send_message" type="submit">
