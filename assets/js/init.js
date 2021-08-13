@@ -38,6 +38,15 @@ jQuery(document).ready(function () {
 // ---------------   FUNCTIONS    ----------------------
 // -----------------------------------------------------
 
+if(!localStorage.getItem('tk_color')){
+	localStorage.setItem('tk_color', 'crimson');
+}
+	
+if(!localStorage.getItem('this_class')){
+if(localStorage.setItem('this_class', '.green.tk-rounded'));
+}
+
+
 // -----------------------------------------------------
 // ---------------------   SWITCHERS    ----------------
 // -----------------------------------------------------
