@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  portfolio:
+    build: 
+      context: .
+    image: jayson-valentino:1.0
+    command: bundle exec jekyll serve -H 0.0.0.0 -t --force_polling --livereload
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - 4000:4000
+    user: "1000:1000"
