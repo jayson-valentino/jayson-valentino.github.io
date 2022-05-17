@@ -1,6 +1,6 @@
 home:
-  profile_name: Hi there! <br> I'm <br> <span> JAYSON VALENTINO </span>
-  profile_img: "/assets/img/slider/1.jpg"
+  profile_name: <span> JAYSON VALENTINO </span>
+  profile_img: "/assets/img/slider/20220215_225904.jpg"
   bio: Welcome to my page! 
   social:
     facebook: "http://facebook.com"
@@ -12,9 +12,9 @@ home:
     linkedin: "https://www.linkedin.com/in/jaysonvalentino"
 
 about:
-  title: "Jayson Valentino  <span> Software Engineer </span>"
-  description: "Hello, I am a software engineer based in Dubai. I have more than 12 years of experience in Full Software Development Life Cycle.
-  I'm currently working as Lead Software Engineer in Pixel Plus Media. Visit my portfolio for more details about my projects."
+  title: "Jayson Valentino"
+  description: "Hello, I am a software engineer with more than 12 years of experience in Full Software Development Life Cycle.
+  I'm currently working as Lead Software Engineer in Pixel Plus Media."
   img_src: "/assets/img/slider/6.jpg"
   learn_more: Skills
   lm_url: #
@@ -26,33 +26,31 @@ about:
   study: Nueva Ecija Univercity of Science and Technology
   # freelance: Available
   technical:
-      - title: AWS Developer Associate
-        expertise: 95
-      - title: AWS DevOps
-        expertise: 80
-      - title: Azure Saas
-        expertise: 70
+      - title: DevOps (AWS,Azure)
+        expertise: 92
+      - title: CICD (Jenkins)
+        expertise: 85
       - title: Docker Container, Docker Swarm
-        expertise: 87
+        expertise: 91
       - title: Custom VPS (Cpanel)
         expertise: 93
       - title: IoT Devices 
         expertise: 88
       - title: Windows, Windows IoT 
         expertise: 90
-      - title: Linux 
+      - title: Linux (Debian)
         expertise: 82        
 
   languages:
       - title: TypeScript, JavaScript
         expertise: 94
-      - title: C#, C#.Net
+      - title: C#, .Net Core
         expertise: 85
       - title: Python
         expertise: 85
       - title: NodeJs
         expertise: 94
-      - title: NestJs
+      - title: NestJs (TypeScript wrapper)
         expertise: 93
       - title: SQL Database
         expertise: 96
@@ -70,8 +68,6 @@ about:
         expertise: 87
 
   tools:
-    - title: Git, Github, AWS Dev Tools, Azure DevOps, GitLab
-      expertise: 85
     - title: Visual Studuio, Visual Studio Code
       expertise: 91
     - title: Swagger, Post Man
@@ -79,10 +75,10 @@ about:
 
 
 portfolio:
-  title: Creative Portfolio
+  title: Portfolio
 
 news:
-  title: Creative Portfolio
+  title: Portfolio
 
 contact:
   title: Get in Touch
